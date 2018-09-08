@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "nCiraoDaMassa",
+	"version": "1.0",
+	"description": "Replace all images for Cirão da Massa",
+	"icons": {
+    	"48": "icon48.jpg",
+        "128": "icon128.jpg"
+    },
+	"content_scripts": [
+	    {
+			"matches": ["*://*/*"],
+	    	"js": ["jquery.js", "ncirao.js"]
+	    }
+  	]
+}
