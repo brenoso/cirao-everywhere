@@ -10,7 +10,6 @@
 			'https://i.imgur.com/fzKBTIl.jpg',
 			'https://i.imgur.com/A9zEEDA.jpg',
 			'https://i.imgur.com/2nK7TOZ.jpg',
-			'https://i.imgur.com/9XX4ZKf.jpg',
 			'https://i.imgur.com/8UTfTIi.jpg',
 			'https://i.imgur.com/bEGY71n.jpg',
 			'https://i.imgur.com/2Uh27rz.jpg',
@@ -41,6 +40,12 @@
 			'https://i.imgur.com/45PW3J0.jpg',
 			'https://i.imgur.com/pmAO8pk.jpg',
 			'https://i.imgur.com/yzkDoXr.gif',
+			'https://i.imgur.com/WK209Gw.jpg',
+			'https://i.imgur.com/QjdzzFS.jpg',
+			'https://i.imgur.com/znC8ilx.jpg',
+			'https://i.imgur.com/UgzcD5b.jpg',
+			'https://i.imgur.com/J4SZyNB.jpg',
+			'https://i.imgur.com/AbYMlH7.jpg',
 			'https://i.imgur.com/kfrBbWx.png'
 			],
 			handleImages : function (lstImgs, time)
