@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "nCiraoDaMassa",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Troque todas as imagens do chrome pelo Cirão da Massa",
 	"icons": {
 		"16": "assets/extension/icon16.png",
