@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "nCiraoDaMassa",
-	"version": "1.1",
-	"description": "Troque todas as imagens do chrome pelo Cirão da Massa",
+	"name": "Cirão Everywhere",
+	"version": "1.2",
+	"description": "Trole o seu amiguinho quando ele não estiver perto, mudando todas as imagens dos sites pelo Cirão da Massa. ",
 	"icons": {
 		"16": "assets/extension/icon16.png",
     	"48": "assets/extension/icon48.png",
